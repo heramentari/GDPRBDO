@@ -12,12 +12,10 @@
 - run gatsby develop
 - visit localhost:8000 in your browser
 
-## Deployment
-
-- changes will automatically be deployed to https://gdprchecklist.io/
-
 ## Attribution
 
 The project is inspired by [The SaaS CTO Security Checklist](https://cto-security-checklist.sqreen.io/) 
 created by [Sqreen.io](https://www.sqreen.io/)
+
 # GDPRBDO
+This Particular repository is used for BDO Indonesia GDPR Compliance Checklist
