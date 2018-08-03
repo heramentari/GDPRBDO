@@ -1,0 +1,2102 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1e947e5d83146db051240b320c5f59b8",
+        "description": "Plugin dev-404-page",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "2c21471c3b6fd36982c2eb7e7439ec89",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "id": "Plugin component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b86f17ec5fa2c5eea747545bd1c33642",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "92bbbb63b52b5fd1a604f003e3aa4683",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f25db4a24bb09f8ba90ed7f85c374882",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "76d1e55a098147e82b3f00e59b86792d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d0c7ec3d45f5433dbfe7061f53a97b43",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "2.0.11",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "2.0.11",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": ">=5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "793badb1c8f3869c0c5e0cdc104a0a28",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-emotion": {
+      "resolve": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby-plugin-emotion",
+      "id": "Plugin gatsby-plugin-emotion",
+      "name": "gatsby-plugin-emotion",
+      "version": "1.1.16",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "modifyBabelrc"
+      ],
+      "browserAPIs": [
+        "onClientEntry"
+      ],
+      "ssrAPIs": [
+        "replaceRenderer"
+      ],
+      "pluginFilepath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby-plugin-emotion",
+      "packageJson": {
+        "name": "gatsby-plugin-emotion",
+        "description": "Gatsby plugin to add support for Emotion",
+        "version": "1.1.16",
+        "main": "index.js",
+        "keywords": [
+          "emotion",
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Tegan Churchill",
+          "email": "churchill.tegan@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "emotion",
+            "version": "7 || 8 || 9"
+          },
+          {
+            "name": "emotion-server",
+            "version": "7 || 8 || 9"
+          },
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d2257679c16fcb8de252434430772a14",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sitemap": {
+      "resolve": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby-plugin-sitemap",
+      "id": "Plugin gatsby-plugin-sitemap",
+      "name": "gatsby-plugin-sitemap",
+      "version": "1.2.23",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby-plugin-sitemap",
+      "packageJson": {
+        "name": "gatsby-plugin-sitemap",
+        "description": "Gatsby plugin that automatically creates a sitemap for your site",
+        "version": "1.2.23",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Nicholas Young &lt;nicholas@nicholaswyoung.com&gt;"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "minimatch",
+            "version": "^3.0.4"
+          },
+          {
+            "name": "sitemap",
+            "version": "^1.12.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "cc83677df157f53842dc8e373ac29a06",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-sharp": {
+      "resolve": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby-transformer-sharp",
+      "id": "Plugin gatsby-transformer-sharp",
+      "name": "gatsby-transformer-sharp",
+      "version": "1.6.27",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "1.6.27",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "66f105ff637206ab8474fee0039dcf72",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sharp": {
+      "resolve": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby-plugin-sharp",
+      "id": "Plugin gatsby-plugin-sharp",
+      "name": "gatsby-plugin-sharp",
+      "version": "1.6.48",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "1.6.48",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^5.2.2"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "5.0.1"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.20.0"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "29fc7c6acae3d3b02fbea535da4dc13f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-manifest": {
+      "resolve": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby-plugin-manifest",
+      "id": "Plugin gatsby-plugin-manifest",
+      "name": "gatsby-plugin-manifest",
+      "version": "1.0.21",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "GDPR Checklist",
+        "short_name": "GDPR Checklist",
+        "start_url": "/",
+        "background_color": "#FFF",
+        "theme_color": "#057de6",
+        "display": "minimal-ui",
+        "icon": "src/images/favicon.png"
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.json to make sites progressive web apps",
+        "version": "1.0.21",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "icons",
+          "manifest.json",
+          "progressive-web-app",
+          "pwa"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.20.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "2a62c66020adfefa50e37aea19d9ffdd",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-offline": {
+      "resolve": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby-plugin-offline",
+      "id": "Plugin gatsby-plugin-offline",
+      "name": "gatsby-plugin-offline",
+      "version": "1.0.16",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onPostBuild"
+      ],
+      "browserAPIs": [
+        "registerServiceWorker"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby-plugin-offline",
+      "packageJson": {
+        "name": "gatsby-plugin-offline",
+        "description": "Gatsby plugin which sets up a site to be able to run offline",
+        "version": "1.0.16",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "offline",
+          "precache",
+          "service-worker"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "sw-precache",
+            "version": "^5.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c9a6700177a2598b293a6729b4540179",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "1.5.39",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images",
+        "name": "images"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "1.5.39",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^1.3.6"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.250"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "bd5015bd1a1c475b6f555455e5127da4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-robots-txt": {
+      "resolve": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby-plugin-robots-txt",
+      "id": "Plugin gatsby-plugin-robots-txt",
+      "name": "gatsby-plugin-robots-txt",
+      "version": "1.0.2",
+      "pluginOptions": {
+        "plugins": [],
+        "host": "https://gdprchecklist.io",
+        "sitemap": "https://gdprchecklist.io/sitemap.xml",
+        "policy": [
+          {
+            "userAgent": "*",
+            "allow": "/"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby-plugin-robots-txt",
+      "packageJson": {
+        "name": "gatsby-plugin-robots-txt",
+        "description": "Gatsby plugin that automatically creates robots.txt for your site",
+        "version": "1.0.2",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Marat Dreizin",
+          "email": "marat.dreizin@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "generate-robotstxt",
+            "version": "^5.0.5"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-eslint",
+            "version": "^8.2.3"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-runtime",
+            "version": "^6.23.0"
+          },
+          {
+            "name": "babel-preset-env",
+            "version": "^1.6.1"
+          },
+          {
+            "name": "eslint",
+            "version": "^4.19.1"
+          },
+          {
+            "name": "eslint-plugin-babel",
+            "version": "^5.1.0"
+          },
+          {
+            "name": "eslint-plugin-markdown",
+            "version": "^1.0.0-beta.6"
+          },
+          {
+            "name": "prettier",
+            "version": "^1.12.1"
+          },
+          {
+            "name": "semantic-release",
+            "version": "^15.1.7"
+          },
+          {
+            "name": "travis-deploy-once",
+            "version": "^4.4.1"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "4def6ba0c410b4e5b16c98edf9c7c84e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-google-analytics": {
+      "resolve": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby-plugin-google-analytics",
+      "id": "Plugin gatsby-plugin-google-analytics",
+      "name": "gatsby-plugin-google-analytics",
+      "version": "1.0.31",
+      "pluginOptions": {
+        "plugins": [],
+        "trackingId": "UA-113160447-1"
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onRouteUpdate"
+      ],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby-plugin-google-analytics",
+      "packageJson": {
+        "name": "gatsby-plugin-google-analytics",
+        "description": "Gatsby plugin to add google analytics onto a site",
+        "version": "1.0.31",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "google analytics"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "12c575b53e4aa54db2d6210e0134d158",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-favicon": {
+      "resolve": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby-plugin-favicon",
+      "id": "Plugin gatsby-plugin-favicon",
+      "name": "gatsby-plugin-favicon",
+      "version": "2.1.1",
+      "pluginOptions": {
+        "plugins": [],
+        "logo": "./src/images/favicon.png",
+        "injectHTML": true,
+        "icons": {
+          "android": true,
+          "appleIcon": true,
+          "appleStartup": true,
+          "coast": false,
+          "favicons": true,
+          "firefox": true,
+          "twitter": true,
+          "yandex": false,
+          "windows": false
+        }
+      },
+      "nodeAPIs": [
+        "modifyWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/node_modules/gatsby-plugin-favicon",
+      "packageJson": {
+        "name": "gatsby-plugin-favicon",
+        "description": "Gatsby plugin to add favicon for all configurations",
+        "version": "2.1.1",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "favicon"
+        ],
+        "author": {
+          "name": "Julien Blatecky",
+          "email": "julien.blatecky@creatiwity.net"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "favicons-webpack-plugin",
+            "version": "0.0.7"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-preset-env",
+            "version": "^1.6.1"
+          },
+          {
+            "name": "babel-preset-react",
+            "version": "^6.24.1"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.1"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a2a794bea8122e4823c85a0547201b78",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "30c32a04090d7a2cc98ba5440f6f393b",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO",
+      "packageJson": {
+        "name": "gatsby-starter-default",
+        "description": "Gatsby default starter",
+        "version": "1.0.0",
+        "main": "n/a",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "emotion",
+            "version": "^8.0.12"
+          },
+          {
+            "name": "emotion-server",
+            "version": "^8.0.12"
+          },
+          {
+            "name": "gatsby",
+            "version": "^1.9.260"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^1.0.51"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.44"
+          },
+          {
+            "name": "gatsby-plugin-emotion",
+            "version": "^1.1.11"
+          },
+          {
+            "name": "gatsby-plugin-favicon",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "^1.0.16"
+          },
+          {
+            "name": "gatsby-plugin-google-fonts",
+            "version": "^0.0.3"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "^1.0.21"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^1.0.16"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^2.0.3"
+          },
+          {
+            "name": "gatsby-plugin-robots-txt",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.44"
+          },
+          {
+            "name": "gatsby-plugin-sitemap",
+            "version": "^1.2.23"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.35"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^1.6.24"
+          },
+          {
+            "name": "react-emotion",
+            "version": "^8.0.12"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "react-icons",
+            "version": "^2.2.7"
+          },
+          {
+            "name": "react-persist",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "react-scrollspy",
+            "version": "^3.3.5"
+          }
+        ],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "e785e9800a77ac7cdb54137208e40e95",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "The GDPR Checklist",
+        "siteUrl": "https://gdprchecklist.io"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-08-03T09:22:08.293Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "5862fb9ad0d42c539533d66f7204e4ed",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images absPath of file": {
+      "id": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "636e1c2a4f47eb59d74b140303e570cf",
+        "type": "Directory",
+        "description": "Directory \"src/images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images",
+      "relativePath": "",
+      "extension": "",
+      "size": 416,
+      "prettySize": "416 B",
+      "modifiedTime": "2018-07-12T04:56:12.321Z",
+      "accessTime": "2018-08-03T09:22:13.120Z",
+      "changeTime": "2018-08-03T09:13:37.022Z",
+      "birthTime": "2018-07-02T06:58:10.284Z",
+      "root": "/",
+      "dir": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 13,
+      "uid": 501,
+      "gid": 80,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8597360227,
+      "blocks": 0,
+      "atimeMs": 1533288133120.4739,
+      "mtimeMs": 1531371372321.0164,
+      "ctimeMs": 1533287617021.6274,
+      "birthtimeMs": 1530514690283.586,
+      "atime": "2018-08-03T09:22:13.120Z",
+      "mtime": "2018-07-12T04:56:12.321Z",
+      "ctime": "2018-08-03T09:13:37.022Z",
+      "birthtime": "2018-07-02T06:58:10.284Z"
+    },
+    "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/makers absPath of file": {
+      "id": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/makers absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "62f98f9c307996239534860353d99d72",
+        "type": "Directory",
+        "description": "Directory \"src/images/makers\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/makers",
+      "relativePath": "makers",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-07-02T08:11:57.088Z",
+      "accessTime": "2018-08-03T09:22:13.123Z",
+      "changeTime": "2018-08-03T09:13:37.016Z",
+      "birthTime": "2018-07-02T06:58:10.286Z",
+      "root": "/",
+      "dir": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images",
+      "base": "makers",
+      "ext": "",
+      "name": "makers",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 80,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8597360231,
+      "blocks": 0,
+      "atimeMs": 1533288133122.5298,
+      "mtimeMs": 1530519117087.6414,
+      "ctimeMs": 1533287617015.5093,
+      "birthtimeMs": 1530514690286.0154,
+      "atime": "2018-08-03T09:22:13.123Z",
+      "mtime": "2018-07-02T08:11:57.088Z",
+      "ctime": "2018-08-03T09:13:37.016Z",
+      "birthtime": "2018-07-02T06:58:10.286Z"
+    },
+    "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/arrow-bottom.svg absPath of file": {
+      "id": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/arrow-bottom.svg absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c55634e0e70e1fe6b18a411f9d053a3b",
+        "mediaType": "image/svg+xml",
+        "type": "File",
+        "description": "File \"src/images/arrow-bottom.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/arrow-bottom.svg",
+      "relativePath": "arrow-bottom.svg",
+      "extension": "svg",
+      "size": 738,
+      "prettySize": "738 B",
+      "modifiedTime": "2018-06-27T01:30:32.000Z",
+      "accessTime": "2018-08-03T09:14:43.038Z",
+      "changeTime": "2018-08-03T09:13:37.020Z",
+      "birthTime": "2018-06-27T01:30:32.000Z",
+      "root": "/",
+      "dir": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images",
+      "base": "arrow-bottom.svg",
+      "ext": ".svg",
+      "name": "arrow-bottom",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 80,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8597360238,
+      "blocks": 8,
+      "atimeMs": 1533287683037.9758,
+      "mtimeMs": 1530063032000,
+      "ctimeMs": 1533287617020.4556,
+      "birthtimeMs": 1530063032000,
+      "atime": "2018-08-03T09:14:43.038Z",
+      "mtime": "2018-06-27T01:30:32.000Z",
+      "ctime": "2018-08-03T09:13:37.020Z",
+      "birthtime": "2018-06-27T01:30:32.000Z"
+    },
+    "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/cross.svg absPath of file": {
+      "id": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/cross.svg absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "76fb4c49319a9528a3d8cf539814a077",
+        "mediaType": "image/svg+xml",
+        "type": "File",
+        "description": "File \"src/images/cross.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/cross.svg",
+      "relativePath": "cross.svg",
+      "extension": "svg",
+      "size": 202,
+      "prettySize": "202 B",
+      "modifiedTime": "2018-07-02T06:58:10.284Z",
+      "accessTime": "2018-08-03T09:14:43.038Z",
+      "changeTime": "2018-08-03T09:13:37.021Z",
+      "birthTime": "2018-07-02T06:58:10.284Z",
+      "root": "/",
+      "dir": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images",
+      "base": "cross.svg",
+      "ext": ".svg",
+      "name": "cross",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 80,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8597360239,
+      "blocks": 8,
+      "atimeMs": 1533287683038.1387,
+      "mtimeMs": 1530514690284.027,
+      "ctimeMs": 1533287617020.8394,
+      "birthtimeMs": 1530514690283.945,
+      "atime": "2018-08-03T09:14:43.038Z",
+      "mtime": "2018-07-02T06:58:10.284Z",
+      "ctime": "2018-08-03T09:13:37.021Z",
+      "birthtime": "2018-07-02T06:58:10.284Z"
+    },
+    "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/.DS_Store absPath of file": {
+      "id": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/.DS_Store absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "2f66fbc1c0143568d4a4197036445e66",
+        "mediaType": "application/octet-stream",
+        "type": "File",
+        "description": "File \"src/images/.DS_Store\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/.DS_Store",
+      "relativePath": ".DS_Store",
+      "extension": "",
+      "size": 6148,
+      "prettySize": "6.15 kB",
+      "modifiedTime": "2018-07-12T04:57:06.758Z",
+      "accessTime": "2018-07-12T04:49:55.425Z",
+      "changeTime": "2018-08-03T09:13:37.012Z",
+      "birthTime": "2018-07-02T08:01:07.746Z",
+      "root": "/",
+      "dir": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images",
+      "base": ".DS_Store",
+      "ext": "",
+      "name": ".DS_Store",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 80,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8597360229,
+      "blocks": 16,
+      "atimeMs": 1531370995425.1294,
+      "mtimeMs": 1531371426758.4473,
+      "ctimeMs": 1533287617012.4453,
+      "birthtimeMs": 1530518467746.4907,
+      "atime": "2018-07-12T04:49:55.425Z",
+      "mtime": "2018-07-12T04:57:06.758Z",
+      "ctime": "2018-08-03T09:13:37.012Z",
+      "birthtime": "2018-07-02T08:01:07.746Z"
+    },
+    "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/favicon.png absPath of file": {
+      "id": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/favicon.png absPath of file",
+      "children": [
+        "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/favicon.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "2a0603f23adb0b89c59c80d2c8a5b648",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/images/favicon.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/favicon.png",
+      "relativePath": "favicon.png",
+      "extension": "png",
+      "size": 7613,
+      "prettySize": "7.61 kB",
+      "modifiedTime": "2018-07-03T04:26:01.099Z",
+      "accessTime": "2018-08-03T09:14:43.027Z",
+      "changeTime": "2018-08-03T09:13:37.016Z",
+      "birthTime": "2018-07-03T04:26:01.099Z",
+      "root": "/",
+      "dir": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images",
+      "base": "favicon.png",
+      "ext": ".png",
+      "name": "favicon",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 80,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8597360234,
+      "blocks": 16,
+      "atimeMs": 1533287683027.2808,
+      "mtimeMs": 1530591961098.8555,
+      "ctimeMs": 1533287617016.055,
+      "birthtimeMs": 1530591961098.71,
+      "atime": "2018-08-03T09:14:43.027Z",
+      "mtime": "2018-07-03T04:26:01.099Z",
+      "ctime": "2018-08-03T09:13:37.016Z",
+      "birthtime": "2018-07-03T04:26:01.099Z"
+    },
+    "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/logo.svg absPath of file": {
+      "id": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/logo.svg absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b0c4fc615cc79cf522b16b7ad17ea40c",
+        "mediaType": "image/svg+xml",
+        "type": "File",
+        "description": "File \"src/images/logo.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/logo.svg",
+      "relativePath": "logo.svg",
+      "extension": "svg",
+      "size": 1114,
+      "prettySize": "1.11 kB",
+      "modifiedTime": "2018-07-03T04:19:15.245Z",
+      "accessTime": "2018-08-03T09:14:43.041Z",
+      "changeTime": "2018-08-03T09:13:37.022Z",
+      "birthTime": "2018-07-03T04:18:54.148Z",
+      "root": "/",
+      "dir": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images",
+      "base": "logo.svg",
+      "ext": ".svg",
+      "name": "logo",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 80,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8597360240,
+      "blocks": 8,
+      "atimeMs": 1533287683040.7815,
+      "mtimeMs": 1530591555245.177,
+      "ctimeMs": 1533287617021.556,
+      "birthtimeMs": 1530591534147.8503,
+      "atime": "2018-08-03T09:14:43.041Z",
+      "mtime": "2018-07-03T04:19:15.245Z",
+      "ctime": "2018-08-03T09:13:37.022Z",
+      "birthtime": "2018-07-03T04:18:54.148Z"
+    },
+    "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/logo2.png absPath of file": {
+      "id": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/logo2.png absPath of file",
+      "children": [
+        "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/logo2.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9a6803cff01e79c4f3bba84860f00f06",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/images/logo2.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/logo2.png",
+      "relativePath": "logo2.png",
+      "extension": "png",
+      "size": 9455,
+      "prettySize": "9.46 kB",
+      "modifiedTime": "2018-07-03T05:18:30.293Z",
+      "accessTime": "2018-08-03T09:14:43.034Z",
+      "changeTime": "2018-08-03T09:13:37.018Z",
+      "birthTime": "2018-07-03T05:18:30.292Z",
+      "root": "/",
+      "dir": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images",
+      "base": "logo2.png",
+      "ext": ".png",
+      "name": "logo2",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 80,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8597360237,
+      "blocks": 24,
+      "atimeMs": 1533287683033.6895,
+      "mtimeMs": 1530595110292.5034,
+      "ctimeMs": 1533287617017.641,
+      "birthtimeMs": 1530595110292.3384,
+      "atime": "2018-08-03T09:14:43.034Z",
+      "mtime": "2018-07-03T05:18:30.293Z",
+      "ctime": "2018-08-03T09:13:37.018Z",
+      "birthtime": "2018-07-03T05:18:30.292Z"
+    },
+    "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/logo.png absPath of file": {
+      "id": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/logo.png absPath of file",
+      "children": [
+        "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/logo.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "2a0603f23adb0b89c59c80d2c8a5b648",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/images/logo.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/logo.png",
+      "relativePath": "logo.png",
+      "extension": "png",
+      "size": 7613,
+      "prettySize": "7.61 kB",
+      "modifiedTime": "2018-07-03T04:26:01.099Z",
+      "accessTime": "2018-08-03T09:14:43.034Z",
+      "changeTime": "2018-08-03T09:13:37.017Z",
+      "birthTime": "2018-07-03T04:26:01.099Z",
+      "root": "/",
+      "dir": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images",
+      "base": "logo.png",
+      "ext": ".png",
+      "name": "logo",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 80,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8597360236,
+      "blocks": 16,
+      "atimeMs": 1533287683033.6743,
+      "mtimeMs": 1530591961098.8555,
+      "ctimeMs": 1533287617016.997,
+      "birthtimeMs": 1530591961098.71,
+      "atime": "2018-08-03T09:14:43.034Z",
+      "mtime": "2018-07-03T04:26:01.099Z",
+      "ctime": "2018-08-03T09:13:37.017Z",
+      "birthtime": "2018-07-03T04:26:01.099Z"
+    },
+    "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/favicon.png absPath of file >> ImageSharp": {
+      "id": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/favicon.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/favicon.png absPath of file",
+      "internal": {
+        "contentDigest": "2a0603f23adb0b89c59c80d2c8a5b648",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/logo2.png absPath of file >> ImageSharp": {
+      "id": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/logo2.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/logo2.png absPath of file",
+      "internal": {
+        "contentDigest": "9a6803cff01e79c4f3bba84860f00f06",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/logo.png absPath of file >> ImageSharp": {
+      "id": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/logo.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/logo.png absPath of file",
+      "internal": {
+        "contentDigest": "2a0603f23adb0b89c59c80d2c8a5b648",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/product-hunt-logo.png absPath of file": {
+      "id": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/product-hunt-logo.png absPath of file",
+      "children": [
+        "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/product-hunt-logo.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "059fd17a33b4312971c169cae95f1eee",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/images/product-hunt-logo.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/product-hunt-logo.png",
+      "relativePath": "product-hunt-logo.png",
+      "extension": "png",
+      "size": 39311,
+      "prettySize": "39.3 kB",
+      "modifiedTime": "2018-07-02T06:58:10.287Z",
+      "accessTime": "2018-08-03T09:14:43.020Z",
+      "changeTime": "2018-08-03T09:13:37.011Z",
+      "birthTime": "2018-07-02T06:58:10.287Z",
+      "root": "/",
+      "dir": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images",
+      "base": "product-hunt-logo.png",
+      "ext": ".png",
+      "name": "product-hunt-logo",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 80,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8597360228,
+      "blocks": 80,
+      "atimeMs": 1533287683020.314,
+      "mtimeMs": 1530514690287.0203,
+      "ctimeMs": 1533287617011.0479,
+      "birthtimeMs": 1530514690286.9116,
+      "atime": "2018-08-03T09:14:43.020Z",
+      "mtime": "2018-07-02T06:58:10.287Z",
+      "ctime": "2018-08-03T09:13:37.011Z",
+      "birthtime": "2018-07-02T06:58:10.287Z"
+    },
+    "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/makers/.DS_Store absPath of file": {
+      "id": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/makers/.DS_Store absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d1184f4c479e1e3f11b5331267e77e2e",
+        "mediaType": "application/octet-stream",
+        "type": "File",
+        "description": "File \"src/images/makers/.DS_Store\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/makers/.DS_Store",
+      "relativePath": "makers/.DS_Store",
+      "extension": "",
+      "size": 6148,
+      "prettySize": "6.15 kB",
+      "modifiedTime": "2018-07-02T08:11:56.257Z",
+      "accessTime": "2018-07-31T10:56:19.625Z",
+      "changeTime": "2018-08-03T09:13:37.014Z",
+      "birthTime": "2018-07-02T08:07:15.376Z",
+      "root": "/",
+      "dir": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/makers",
+      "base": ".DS_Store",
+      "ext": "",
+      "name": ".DS_Store",
+      "relativeDirectory": "makers",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 80,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8597360232,
+      "blocks": 16,
+      "atimeMs": 1533034579624.7754,
+      "mtimeMs": 1530519116256.81,
+      "ctimeMs": 1533287617014.3984,
+      "birthtimeMs": 1530518835376.123,
+      "atime": "2018-07-31T10:56:19.625Z",
+      "mtime": "2018-07-02T08:11:56.257Z",
+      "ctime": "2018-08-03T09:13:37.014Z",
+      "birthtime": "2018-07-02T08:07:15.376Z"
+    },
+    "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/github.png absPath of file": {
+      "id": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/github.png absPath of file",
+      "children": [
+        "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/github.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "06e3621a4d93e8e4b9527ebc72ba2f07",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/images/github.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/github.png",
+      "relativePath": "github.png",
+      "extension": "png",
+      "size": 68083,
+      "prettySize": "68.1 kB",
+      "modifiedTime": "2018-07-02T06:58:10.286Z",
+      "accessTime": "2018-08-03T09:14:43.022Z",
+      "changeTime": "2018-08-03T09:13:37.014Z",
+      "birthTime": "2018-07-02T06:58:10.285Z",
+      "root": "/",
+      "dir": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images",
+      "base": "github.png",
+      "ext": ".png",
+      "name": "github",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 80,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8597360230,
+      "blocks": 136,
+      "atimeMs": 1533287683022.4739,
+      "mtimeMs": 1530514690285.7874,
+      "ctimeMs": 1533287617013.5295,
+      "birthtimeMs": 1530514690285.3572,
+      "atime": "2018-08-03T09:14:43.022Z",
+      "mtime": "2018-07-02T06:58:10.286Z",
+      "ctime": "2018-08-03T09:13:37.014Z",
+      "birthtime": "2018-07-02T06:58:10.285Z"
+    },
+    "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/ha.png absPath of file": {
+      "id": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/ha.png absPath of file",
+      "children": [
+        "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/ha.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "41bea758aec19a387a10ff6c92fb2968",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/images/ha.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/ha.png",
+      "relativePath": "ha.png",
+      "extension": "png",
+      "size": 124137,
+      "prettySize": "124 kB",
+      "modifiedTime": "2018-07-02T06:58:10.285Z",
+      "accessTime": "2018-08-03T09:14:43.030Z",
+      "changeTime": "2018-08-03T09:13:37.017Z",
+      "birthTime": "2018-07-02T06:58:10.284Z",
+      "root": "/",
+      "dir": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images",
+      "base": "ha.png",
+      "ext": ".png",
+      "name": "ha",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 80,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8597360235,
+      "blocks": 248,
+      "atimeMs": 1533287683030.4294,
+      "mtimeMs": 1530514690285.2476,
+      "ctimeMs": 1533287617016.5933,
+      "birthtimeMs": 1530514690284.3557,
+      "atime": "2018-08-03T09:14:43.030Z",
+      "mtime": "2018-07-02T06:58:10.285Z",
+      "ctime": "2018-08-03T09:13:37.017Z",
+      "birthtime": "2018-07-02T06:58:10.284Z"
+    },
+    "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/product-hunt-logo.png absPath of file >> ImageSharp": {
+      "id": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/product-hunt-logo.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/product-hunt-logo.png absPath of file",
+      "internal": {
+        "contentDigest": "059fd17a33b4312971c169cae95f1eee",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/github.png absPath of file >> ImageSharp": {
+      "id": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/github.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/github.png absPath of file",
+      "internal": {
+        "contentDigest": "06e3621a4d93e8e4b9527ebc72ba2f07",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/ha.png absPath of file >> ImageSharp": {
+      "id": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/ha.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/ha.png absPath of file",
+      "internal": {
+        "contentDigest": "41bea758aec19a387a10ff6c92fb2968",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/makers/gertjan.jpg absPath of file": {
+      "id": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/makers/gertjan.jpg absPath of file",
+      "children": [
+        "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/makers/gertjan.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3436cddce08ced3af2b8ad284b630b75",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "description": "File \"src/images/makers/gertjan.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/makers/gertjan.jpg",
+      "relativePath": "makers/gertjan.jpg",
+      "extension": "jpg",
+      "size": 124179,
+      "prettySize": "124 kB",
+      "modifiedTime": "2017-08-18T07:58:05.000Z",
+      "accessTime": "2018-08-03T09:14:43.027Z",
+      "changeTime": "2018-08-03T09:13:37.015Z",
+      "birthTime": "2017-08-18T07:58:05.000Z",
+      "root": "/",
+      "dir": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/makers",
+      "base": "gertjan.jpg",
+      "ext": ".jpg",
+      "name": "gertjan",
+      "relativeDirectory": "makers",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 80,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8597360233,
+      "blocks": 248,
+      "atimeMs": 1533287683027.4058,
+      "mtimeMs": 1503043085000,
+      "ctimeMs": 1533287617015.3066,
+      "birthtimeMs": 1503043085000,
+      "atime": "2018-08-03T09:14:43.027Z",
+      "mtime": "2017-08-18T07:58:05.000Z",
+      "ctime": "2018-08-03T09:13:37.015Z",
+      "birthtime": "2017-08-18T07:58:05.000Z"
+    },
+    "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/makers/gertjan.jpg absPath of file >> ImageSharp": {
+      "id": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/makers/gertjan.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/makers/gertjan.jpg absPath of file",
+      "internal": {
+        "contentDigest": "3436cddce08ced3af2b8ad284b630b75",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f436f5799752343c9e769115906323d1",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "fd12c268263583d5c3435dd24980c0de",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c47a3cca9ed74a7be3508512be6f95e6",
+        "description": "Plugin prod-404",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "fc1cae8682e4f187cfdf7ddb55205950"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/makers/gertjan.jpg absPath of file >> ImageSharp": [
+        "/"
+      ],
+      "/Applications/XAMPP/xamppfiles/htdocs/GDPRBDO/src/images/makers/gertjan.jpg absPath of file": [
+        "/"
+      ]
+    },
+    "connections": {
+      "SitePage": [
+        "/dev-404-page/"
+      ]
+    }
+  }
+}
