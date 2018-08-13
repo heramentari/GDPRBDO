@@ -1,4 +1,3 @@
-## Preview
 ![Alt Text](https://image.ibb.co/hg7hfp/GifSmall.gif)
 
 
