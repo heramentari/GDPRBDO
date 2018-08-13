@@ -1,6 +1,8 @@
 ## Preview
 ![Alt Text](https://media.giphy.com/media/uj7QvfknkdpwuNZ71D/giphy.gif)
 
+# GDPR BDO
+This Particular repository is used for BDO Indonesia GDPR Compliance Checklist
 
 ## How to add updates to the checklist
 
@@ -21,7 +23,5 @@
 The project is inspired by [The SaaS CTO Security Checklist](https://cto-security-checklist.sqreen.io/) 
 created by [Sqreen.io](https://www.sqreen.io/)
 
-# GDPR BDO
-This Particular repository is used for BDO Indonesia GDPR Compliance Checklist
 
 
