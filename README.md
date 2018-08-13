@@ -1,7 +1,7 @@
 ## Preview
-![Alt Text](https://media.giphy.com/media/uj7QvfknkdpwuNZ71D/giphy.gif)
-<br>
 This Particular repository is used for BDO Indonesia GDPR Compliance Checklist
+<br>
+![Alt Text](https://media.giphy.com/media/uj7QvfknkdpwuNZ71D/giphy.gif)
 
 ## How to add updates to the checklist
 
