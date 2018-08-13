@@ -19,3 +19,5 @@ created by [Sqreen.io](https://www.sqreen.io/)
 
 # GDPR BDO
 This Particular repository is used for BDO Indonesia GDPR Compliance Checklist
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
