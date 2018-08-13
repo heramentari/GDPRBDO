@@ -1,5 +1,5 @@
 ## Preview
-![Alt Text](https://drive.google.com/file/d/1t-9VkHOFyekDBS_undwSP3p2rQmGq1Tn/view?usp=sharing)
+![Alt Text](https://image.ibb.co/hg7hfp/GifSmall.gif)
 
 
 ## How to add updates to the checklist
