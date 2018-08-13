@@ -1,4 +1,5 @@
-![Alt Text](https://image.ibb.co/hg7hfp/GifSmall.gif)
+## Preview
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 ## How to add updates to the checklist
