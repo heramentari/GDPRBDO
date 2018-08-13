@@ -1,3 +1,7 @@
+## Preview
+![Alt Text](https://drive.google.com/file/d/1t-9VkHOFyekDBS_undwSP3p2rQmGq1Tn/view?usp=sharing)
+
+
 ## How to add updates to the checklist
 
 - fork this repository
@@ -20,4 +24,4 @@ created by [Sqreen.io](https://www.sqreen.io/)
 # GDPR BDO
 This Particular repository is used for BDO Indonesia GDPR Compliance Checklist
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
