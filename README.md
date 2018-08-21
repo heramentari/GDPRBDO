@@ -2,10 +2,7 @@
 This Particular repository is used for BDO Indonesia GDPR Compliance Checklist
 <br><br>
 ![Alt Text](https://media.giphy.com/media/2xPY9i1QJA0CMMZXu5/giphy.gif)
-<<<<<<< HEAD
 
-=======
->>>>>>> d361ab956d0c73acf190125e75447d9e0afcd03d
 
 ## How to add updates to the checklist
 
