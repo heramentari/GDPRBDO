@@ -39,7 +39,7 @@ const Footer = props => (
     <span>Makers:</span>
     <div className="gradient">
       <h5>About GDPR Checklist</h5>
-      <div className="subtitle">This GDPR Checklist is originally made by a small team from Belgium (Gertjan, Willem, and Johan) to help businesses navigate the GDPR landscape, checkout the original site <a href="https://gdprchecklist.io">here</a>.
+      <div className="subtitle">This GDPR Checklist is originally made by a small team from Belgium (Gertjan, Willem, and Johan) to help businesses navigate the GDPR landscape, checkout the original site <a href="https://gdprchecklist.io">here.</a>
       The project is inspired by <a href="https://cto-security-checklist.sqreen.io/">The SaaS CTO Security Checklist</a> created by <a href="https://www.sqreen.io">Sqreen.io</a> <p>This GDPR Checklist was Modified for BDO Indonesia by:</p></div>
 
       <Makers>
