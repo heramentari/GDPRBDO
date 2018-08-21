@@ -2,7 +2,10 @@
 This Particular repository is used for BDO Indonesia GDPR Compliance Checklist
 <br><br>
 ![Alt Text](https://media.giphy.com/media/2xPY9i1QJA0CMMZXu5/giphy.gif)
+<<<<<<< HEAD
 
+=======
+>>>>>>> d361ab956d0c73acf190125e75447d9e0afcd03d
 
 ## How to add updates to the checklist
 
@@ -18,12 +21,10 @@ This Particular repository is used for BDO Indonesia GDPR Compliance Checklist
 - run gatsby develop
 - visit localhost:8000 in your browser
 
-## Deployment
-
-- changes will automatically be deployed to https://gdprchecklist.io/
-
 ## Attribution
 
 The project is inspired by [The SaaS CTO Security Checklist](https://cto-security-checklist.sqreen.io/) 
 created by [Sqreen.io](https://www.sqreen.io/)
-# GDPRBDO
+
+
+
