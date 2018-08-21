@@ -1,4 +1,8 @@
-<img src="https://github.com/GDPRTracker/GDPR-checklist/blob/master/src/images/github.png">
+## Preview
+This Particular repository is used for BDO Indonesia GDPR Compliance Checklist
+<br><br>
+![Alt Text](https://media.giphy.com/media/2xPY9i1QJA0CMMZXu5/giphy.gif)
+
 
 ## How to add updates to the checklist
 
